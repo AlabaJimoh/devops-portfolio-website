@@ -1,8 +1,0 @@
-127.0.0.1 - - [14/Jun/2026 01:24:40] "GET / HTTP/1.1" 304 -
-127.0.0.1 - - [14/Jun/2026 01:24:40] "GET /style.css HTTP/1.1" 304 -
-127.0.0.1 - - [14/Jun/2026 01:24:40] code 404, message File not found
-127.0.0.1 - - [14/Jun/2026 01:24:40] "GET /favicon.ico HTTP/1.1" 404 -
-127.0.0.1 - - [14/Jun/2026 01:29:02] "GET / HTTP/1.1" 304 -
-127.0.0.1 - - [14/Jun/2026 01:29:02] "GET /style.css HTTP/1.1" 304 -
-127.0.0.1 - - [14/Jun/2026 01:40:14] code 404, message File not found
-127.0.0.1 - - [14/Jun/2026 01:40:14] "GET /favicon.ico HTTP/1.1" 404 -
